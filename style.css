@@ -35,7 +35,7 @@ header nav{
 }
 
 header nav .logo{
-    width: 200px;
+    width: 20%;
     height: 80px;
     float: left;
     display: flex;
@@ -59,7 +59,7 @@ header nav .logo span{
 
 header nav .menu{
     height: 80px;
-    width: 60%;
+    width: 80%;
     float: left;
     display: flex;
     justify-content: space-evenly;
